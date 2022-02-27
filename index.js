@@ -114,12 +114,6 @@ const promptQuestions =
             ]
 
 // TODO: Create a function to write README file
-// .then(data => {
-//     return generateMarkdown(data) // function writeToFile(fileName, data) {}
-// })
-// .then(markdown => {
-//    return writeToFile(markdown)
-// })
 
 function writeToFile(answers) {
     fs.writeFile("./templateREADME.md", generateMarkdown(answers), (err) => {
