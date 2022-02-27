@@ -64,7 +64,7 @@ const promptQuestions =
             },
             {
                 type: 'input',
-                name: 'contributing',
+                name: 'contribution',
                 message: 'Provide instructions for how to contribute to this project. (Required)',
                 validate: userInput => {
                     if (userInput) {
@@ -84,7 +84,7 @@ const promptQuestions =
                 type: 'list',
                 name: 'license',
                 message: 'If you would like to include a license, select one. Use the arrow keys to move, and press Enter to select:',
-                choices: ['MIT', 'GPL 3.0', 'Apache 2.0', 'GPL 2.0', 'BSD 3', 'None']
+                choices: ['MIT', 'GPLv3', 'ISC', 'PPDL', 'Perl', 'Unlicense']
             },
             {
                 type: 'input',
@@ -99,7 +99,7 @@ const promptQuestions =
 
             {
                 type: "input",
-                name: "credits",
+                name: "acknowledgments",
                 message:"Please list any collaborators, or third party assets that assisted with your project's development.",
                 validate: (userInput) => {
                   if (userInput) {

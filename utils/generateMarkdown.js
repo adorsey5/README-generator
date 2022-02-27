@@ -10,6 +10,9 @@
 // // If there is no license, return an empty string
 // function renderLicenseSection(license) {}
 
+// function renderLicenseBadge(badge) {
+ 
+
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
@@ -23,7 +26,7 @@ function generateMarkdown(data) {
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
-  - [Acknowledgments](#acknowledgements)
+  - [Acknowledgments](#acknowledgments)
   - [Contribution](#contribution)
   - [Questions](#questions)
  

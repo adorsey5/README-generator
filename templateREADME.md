@@ -1,6 +1,6 @@
 # test
 
-  ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![badge](https://img.shields.io/badge/license-GPLv3-blue.svg)
   <br />
 
   ## Table of Contents
@@ -9,12 +9,12 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
+  - [Acknowledgments](#acknowledgments)
   - [Contribution](#contribution)
   - [Questions](#questions)
-  - [Acknowledgments](#acknowledgements)
  
   ## Description 
-  *The what, why, and how:* 
+  *Project:* 
   test
 
   ## Installation
@@ -22,26 +22,26 @@
    test
   
   ## Usage 
-  *Instructions and examples for use:*
+  *Instructions:*
    test
 
   ## Testing
   test
 
   ## Contribution
-  *If you would like to contribute it, you can follow these guidelines for how to do so.*
-  undefined
+  *Instructions to contribute to the repo*
+  test
 
   ## Questions
-  *If you have any questions feel free to reach out*
+  *Contact me if you have questions*
   - [GitHub Profile](https://github.com/undefined)
   - [Email](mailto:test)
 
   ## Acknowledgments
-  undefined
+  test
 
   ## License
-  ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
+  ![badge](https://img.shields.io/badge/license-GPLv3-blue.svg)
   <br />
-  This application is covered by the MIT license. 
+  This application is covered by the GPLv3 license. 
   
