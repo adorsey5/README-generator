@@ -1,6 +1,6 @@
 # test
 
-  ![badge](https://img.shields.io/badge/license-ISC-blue.svg)
+  ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
   <br />
 
   ## Table of Contents
@@ -9,12 +9,12 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
-  - [Acknowledgments](#acknowledgments)
   - [Contribution](#contribution)
   - [Questions](#questions)
+  - [Acknowledgments](#acknowledgements)
  
   ## Description 
-  *Project:* 
+  *The what, why, and how:* 
   test
 
   ## Installation
@@ -22,26 +22,26 @@
    test
   
   ## Usage 
-  *Instructions:*
+  *Instructions and examples for use:*
    test
 
   ## Testing
   test
 
   ## Contribution
-  *Instructions to contribute to the repo*
-  test
+  *If you would like to contribute it, you can follow these guidelines for how to do so.*
+  undefined
 
   ## Questions
-  *Contact me if you have questions*
+  *If you have any questions feel free to reach out*
   - [GitHub Profile](https://github.com/undefined)
   - [Email](mailto:test)
 
   ## Acknowledgments
-  test
+  undefined
 
   ## License
-  ![badge](https://img.shields.io/badge/license-ISC-blue.svg)
+  ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
   <br />
-  This application is covered by the ISC license. 
+  This application is covered by the MIT license. 
   
