@@ -1,10 +1,10 @@
-# test
+# README Generator
 
-  ![badge](https://img.shields.io/badge/license-ISC-blue.svg)
+  ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
 
   ## Description 
   *Project:* 
-  test
+  This project quickly and easily generates a README file by using a command-line application
 
   ## Table of Contents
 
@@ -19,30 +19,30 @@
  
 
   ## Installation
-  *Steps required to install project and how to get the development environment running:*
-   test
+  *Steps required to install the repo:*  <br />
+   npm i
   
   ## Usage 
-  *Instructions:*
-   npm start
+  *Instructions on how to use the repo:*  <br />
+   node index.js
 
   ## Testing
   npm run test
 
   ## Contribution
-  *Instructions to contribute to the repo*
+  *Instructions for users to contribute to the repo*  <br />
   git fork
 
   ## Questions
-  *Contact me if you have questions*
-  - [GitHub Profile](https://github.com/undefined)
-  - [Email](mailto:ashadorsey@gmail.com)
+  *Contact me if you have questions:*
+  - [GitHub Profile](https://github.com/adorsey5)
+  - [Email](mailto:askd@yahoo.com)
 
   ## Acknowledgments
-  jeremy jones
+  tutors and classmates
 
   ## License 
-  ![badge](https://img.shields.io/badge/license-ISC-blue.svg)
+  ![badge](https://img.shields.io/badge/license-MIT-blue.svg)
   <br />
-  This application is covered by the ISC license. 
+  This application is covered by the MIT license. 
   

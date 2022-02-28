@@ -1,4 +1,3 @@
-
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
@@ -48,22 +47,22 @@ ${renderLicenseLink(data.license)}
  
 
   ## Installation
-  *Steps required to install project and how to get the development environment running:*
+  *Steps required to install the repo:*  <br />
    ${data.installation}
   
   ## Usage 
-  *Instructions:*
+  *Instructions on how to use the repo:*  <br />
    ${data.usage}
 
   ## Testing
   ${data.tests}
 
   ## Contribution
-  *Instructions to contribute to the repo*
+  *Instructions for users to contribute to the repo*  <br />
   ${data.contribution}
 
   ## Questions
-  *Contact me if you have questions*
+  *Contact me if you have questions:*
   - [GitHub Profile](https://github.com/${data.username})
   - [Email](mailto:${data.email})
 
