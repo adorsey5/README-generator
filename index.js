@@ -56,12 +56,6 @@ const promptQuestions =
                     }
                 }
             },
-            // {
-            //     type: 'confirm',
-            //     name: 'contributor',
-            //     message: 'Would you like others to contribute to your project?',
-            //     default: false
-            // },
             {
                 type: 'input',
                 name: 'contribution',
