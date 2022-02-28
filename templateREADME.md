@@ -1,7 +1,10 @@
 # test
 
-  ![badge](https://img.shields.io/badge/license-GPLv3-blue.svg)
-  <br />
+  ![badge](https://img.shields.io/badge/license-ISC-blue.svg)
+
+  ## Description 
+  *Project:* 
+  test
 
   ## Table of Contents
 
@@ -9,13 +12,11 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Testing](#testing)
-  - [Acknowledgments](#acknowledgments)
   - [Contribution](#contribution)
   - [Questions](#questions)
+  - [Acknowledgments](#acknowledgments)
+- [License](#license)
  
-  ## Description 
-  *Project:* 
-  test
 
   ## Installation
   *Steps required to install project and how to get the development environment running:*
@@ -23,25 +24,25 @@
   
   ## Usage 
   *Instructions:*
-   test
+   npm start
 
   ## Testing
-  test
+  npm run test
 
   ## Contribution
   *Instructions to contribute to the repo*
-  test
+  git fork
 
   ## Questions
   *Contact me if you have questions*
   - [GitHub Profile](https://github.com/undefined)
-  - [Email](mailto:test)
+  - [Email](mailto:ashadorsey@gmail.com)
 
   ## Acknowledgments
-  test
+  jeremy jones
 
-  ## License
-  ![badge](https://img.shields.io/badge/license-GPLv3-blue.svg)
+  ## License 
+  ![badge](https://img.shields.io/badge/license-ISC-blue.svg)
   <br />
-  This application is covered by the GPLv3 license. 
+  This application is covered by the ISC license. 
   

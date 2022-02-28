@@ -46,7 +46,7 @@ const promptQuestions =
             {
                 type: 'input',
                 name: 'usage',
-                message: 'Provide instructions on how to use the project:',
+                message: 'Provide instructions on how to use the repo:',
                 validate: userInput => {
                     if (userInput) {
                         return true;
@@ -56,16 +56,16 @@ const promptQuestions =
                     }
                 }
             },
-            {
-                type: 'confirm',
-                name: 'contributor',
-                message: 'Would you like others to contribute to your project?',
-                default: false
-            },
+            // {
+            //     type: 'confirm',
+            //     name: 'contributor',
+            //     message: 'Would you like others to contribute to your project?',
+            //     default: false
+            // },
             {
                 type: 'input',
                 name: 'contribution',
-                message: 'Provide instructions for how to contribute to this project. (Required)',
+                message: 'Provide instructions for how to contribute to your project. (Required)',
                 validate: userInput => {
                     if (userInput) {
                     return true;
@@ -78,7 +78,7 @@ const promptQuestions =
             {
                 type: 'input',
                 name: 'tests',
-                message: 'Provide testing instructions:',
+                message: 'Provide testing instructions for your project:',
             },
             {
                 type: 'list',
@@ -88,7 +88,7 @@ const promptQuestions =
             },
             {
                 type: 'input',
-                name: 'github',
+                name: 'username',
                 message: 'Enter your GitHub username:',
             },
             {
@@ -105,7 +105,7 @@ const promptQuestions =
                   if (userInput) {
                     return true;
                   } else {
-                    console.log("Please enter any collaborators, or third party assets that assisted with your project's development."
+                    console.log("Please enter any collaborators or third party assets."
                     );
                     return false;
                   }
@@ -120,7 +120,7 @@ function writeToFile(answers) {
       if (err) throw new Error(err);
         console.log(answers)
       console.log(
-        "README created!"
+        "README generated!"
       );
     });
   }
